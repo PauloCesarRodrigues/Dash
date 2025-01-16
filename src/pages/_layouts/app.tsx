@@ -24,6 +24,7 @@ export function AppLayout() {
         }
       },
     )
+
     return () => {
       api.interceptors.response.eject(interceptorId)
     }
