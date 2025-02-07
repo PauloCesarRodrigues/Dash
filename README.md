@@ -26,6 +26,9 @@ O projeto foi desenvolvido utilizando tecnologias modernas para garantir escalab
 - **Testes unitários e E2E**: Garantia de qualidade e confiabilidade  
 - **Mocks**: Simulação de dados para desenvolvimento e testes  
 
+## 📷 Screenshot
+![image](https://github.com/user-attachments/assets/5d718336-f326-451d-9b02-32a5fe5baa2f)
+
 ##  🛠️ Como Contribuir
 Se você deseja contribuir para o projeto, fique à vontade para abrir um Pull Request ou relatar problemas na aba Issues.
 
