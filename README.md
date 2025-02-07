@@ -27,7 +27,7 @@ O projeto foi desenvolvido utilizando tecnologias modernas para garantir escalab
 - **Mocks**: Simulação de dados para desenvolvimento e testes  
 
 ## 📷 Screenshots
-![image](https://github.com/user-attachments/assets/5d718336-f326-451d-9b02-32a5fe5baa2f)
+![image](https://github.com/user-attachments/assets/ee194abd-113a-4256-a09d-c6e3a8d5afdd)
 
 ![image](https://github.com/user-attachments/assets/60a96371-c445-4f21-8c33-9888428a10ca)
 
